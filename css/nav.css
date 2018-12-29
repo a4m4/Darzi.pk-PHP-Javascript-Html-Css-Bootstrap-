@@ -1,0 +1,13 @@
+img {
+		height: 110px;
+		 width: 150px;
+		 float: left ;
+		 padding-left: 6%; 
+	}
+
+	h2{
+		float: right;
+		padding-right: 9%;
+		font-size: 32px;
+		color: #066c61;
+	}
