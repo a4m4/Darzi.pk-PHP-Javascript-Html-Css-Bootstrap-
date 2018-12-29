@@ -1,0 +1,39 @@
+.footar p {
+	color: #00a69c;
+	font-size: 20px;
+}
+
+
+.footar a{
+	color: #00a69c;
+	font-size: 20px;
+}
+
+
+.footar h2{
+	color: white;
+}
+
+.jumbotron {
+
+		padding-top: 10%;
+		padding-left: 0;
+		background:none;
+		}
+
+.hp{
+	text-align: center; 
+	padding-left: 22%;
+	 padding-right: 22%;
+	  font-size: 29px;
+}
+
+.himg{
+	height: 300px; 
+	width: 500px;
+	 margin: auto;
+	  text-align: center;
+	 border: 4px #00a69c solid;
+}
+
+
