@@ -1,0 +1,26 @@
+form{
+	text-align: center;
+	}
+	body{
+     background-image: url("assets/images/fbg.jpg") ;
+      background-size: cover;
+      height: 100%;
+      overflow: hidden;
+	}
+	h1{
+    padding-top: 10%;
+    margin: auto;
+		text-align: center;
+		font-size: 110px;
+    color: #066c61;
+	}
+   label{
+   	font-size: 30px;
+   }
+  p{
+  	font-size: 22px;
+  }
+  button{
+  	box-shadow: 10px;
+  	font-size: 20px;
+  }
