@@ -1,0 +1,26 @@
+
+.jumbotron {
+
+		padding-top: 12%;
+		padding-left: 0;
+		float: left;
+		background:none;
+		text-align: left;
+}
+
+
+.footar p {
+	color: #00a69c;
+	font-size: 20px;
+}
+
+
+.footar a{
+	color: #00a69c;
+	font-size: 20px;
+}
+
+
+.footar h2{
+	color: white;
+}
